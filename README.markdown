@@ -19,7 +19,7 @@ View at: [http://localhost:9292/](http://localhost:9292/)
   [Sinatra]: http://www.sinatrarb.com
   [Bundler]: http://gembundler.com/
 
-Licence
+License
 -------
 
-MIT, See `LICENCE` file.
+MIT, See `LICENSE` file.
