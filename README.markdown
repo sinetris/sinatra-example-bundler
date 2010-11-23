@@ -1,5 +1,5 @@
-Gist: The Script
-================
+sinatra-example-bundler
+=======================
 
 Simple example of using [Bundler][] with [Sinatra][]
 
